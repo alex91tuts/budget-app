@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/budget-app/static/css/main.f7c53906.css",
-    "main.js": "/budget-app/static/js/main.2bb8bba7.js",
+    "main.css": "/budget-app/static/css/main.6f99ae09.css",
+    "main.js": "/budget-app/static/js/main.c63c2892.js",
     "static/js/952.e28b04e7.chunk.js": "/budget-app/static/js/952.e28b04e7.chunk.js",
     "static/js/453.e747c2b4.chunk.js": "/budget-app/static/js/453.e747c2b4.chunk.js",
     "service-worker.js": "/budget-app/service-worker.js",
     "static/media/logo.svg": "/budget-app/static/media/logo.6f82e5c80be0a3d5ddf5348545b9bcc1.svg",
     "index.html": "/budget-app/index.html",
-    "main.f7c53906.css.map": "/budget-app/static/css/main.f7c53906.css.map",
-    "main.2bb8bba7.js.map": "/budget-app/static/js/main.2bb8bba7.js.map",
+    "main.6f99ae09.css.map": "/budget-app/static/css/main.6f99ae09.css.map",
+    "main.c63c2892.js.map": "/budget-app/static/js/main.c63c2892.js.map",
     "952.e28b04e7.chunk.js.map": "/budget-app/static/js/952.e28b04e7.chunk.js.map",
     "453.e747c2b4.chunk.js.map": "/budget-app/static/js/453.e747c2b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7c53906.css",
-    "static/js/main.2bb8bba7.js"
+    "static/css/main.6f99ae09.css",
+    "static/js/main.c63c2892.js"
   ]
 }
